@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <iframe src="https://micromundo.app" />
+        MicroMundo
       </header>
     </div>
   );
